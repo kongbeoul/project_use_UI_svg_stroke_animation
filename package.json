@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/kongbeoul/svg_stroke_animation/issues"
   },
-  "homepage": "https://kongbeoul.github.io/svg_stroke_animation/",
+  "homepage": "https://kongbeoul.github.io/svg_stroke_animation",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   }
