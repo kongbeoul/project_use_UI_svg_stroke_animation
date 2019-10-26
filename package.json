@@ -1,0 +1,23 @@
+{
+  "name": "svg_stroke_animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongbeoul/svg_stroke_animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongbeoul/svg_stroke_animation/issues"
+  },
+  "homepage": "https://kongbeoul.github.io/svg_stroke_animation/",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
